@@ -1,0 +1,12 @@
+.DS_Store
+node_modules*
+.tmp
+temp
+tmp
+*.log
+doc
+.grunt
+reports
+.nvm
+.sauce
+.env
