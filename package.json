@@ -7,7 +7,7 @@
     "lodash.values": "~4.3.0"
   },
   "devDependencies": {
-    "eslint": "~3.16.0",
+    "eslint": "~3.18.0",
     "grunt": "~1.0.1",
     "grunt-bump": "~0.8.0",
     "grunt-cli": "~1.2.0",
