@@ -7,20 +7,20 @@
     "lodash.values": "~4.3.0"
   },
   "devDependencies": {
-    "eslint": "~3.19.0",
+    "eslint": "~4.1.0",
     "grunt": "~1.0.1",
     "grunt-bump": "~0.8.0",
     "grunt-cli": "~1.2.0",
     "grunt-continue": "~0.1.0",
-    "grunt-contrib-clean": "~1.0.0",
+    "grunt-contrib-clean": "~1.1.0",
     "grunt-contrib-copy": "~1.0.0",
     "grunt-contrib-watch": "~1.0.0",
-    "grunt-eslint": "~19.0.0",
-    "grunt-istanbul": "~0.7.2",
+    "grunt-eslint": "~20.0.0",
+    "grunt-istanbul": "~0.8.0",
     "grunt-mocha-test": "~0.13.2",
     "istanbul": "~0.4.5",
     "load-grunt-tasks": "~3.5.2",
-    "mocha": "~3.2.0",
+    "mocha": "~3.4.2",
     "time-grunt": "~1.4.0"
   }
 }
